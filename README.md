@@ -18,5 +18,17 @@ A fun Python project that can **encode** and **decode** secret messages!
 - `random` module
 - `string` module
 
+## Kaun Banega Crorepati (Python)
+
+This is a simple Python-based quiz game inspired by the famous show Kaun Banega Crorepati.
+
+🚀 Features
+Multiple choice questions
+Score tracking
+Simple CLI-based gameplay
+🛠 Tech Used
+Python
+▶️ How to Run
+
 👩‍💻 Author
 Amisha Tiwari
